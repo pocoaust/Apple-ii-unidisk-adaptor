@@ -12,3 +12,4 @@ Uses standard DB25 ports that need to be moded to DB19.
 
 * No responsibility taken for any loss or damage caused by this Project.
 * 
+![boardpic](https://user-images.githubusercontent.com/89445361/234557520-ade2841a-2e96-4648-a3a3-b22b2246e5a9.jpg)
