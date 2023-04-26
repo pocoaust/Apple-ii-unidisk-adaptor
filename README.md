@@ -1,4 +1,4 @@
-# Apple-ii-unidisk-adaptor for 20 Pin IDC or SD Disk / floppy Emu.
+# Apple 2 unidisk adaptor for 20 Pin IDC or SD Disk / floppy Emu.
 Unidisk adaptor to allow 20 Pin IDC and DB19 drives to be mixed and matched
 
 This Adaptor board allows people with Unidisk controllers with DB-19 ports to add 20 pin IDC
